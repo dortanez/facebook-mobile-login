@@ -1,0 +1,92 @@
+body {
+	margin: 0;
+}
+
+/* FACEBOOK LOGO */
+.logo {
+	background-color: #2445a8;
+	text-align: center;
+}
+
+.logo a {
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: "Bowlby One SC";
+}
+
+.loginbox {
+	display: block;
+	background-color:#ccd9ff;
+	margin: 0 400px;
+}
+
+.mobile {
+	display: block;
+	background-color: #ffcc80;
+	border-radius: 5px;
+	border: 2px solid #ffa31a;
+	margin: 0px 50px;
+}
+
+.mobile h1 {
+	margin: 0px;
+	text-align:center;
+}
+.mobile h1 a {
+	text-decoration: none;
+	font-family:"Arial";
+	font-size: 13px;
+}
+
+#email {
+	box-sizing: border-box;
+	display: block;
+	width: 78%;
+	height: 27px;
+	margin: 20px auto 0px auto;
+	border-radius: 5px;
+
+}
+
+#password {
+	box-sizing: border-box;
+	display: block;
+	width: 78%;
+	height: 27px;
+	margin: 0px 52px;
+	border-radius: 5px;
+}
+
+.button {
+	background-color: #2445a8;
+	color: white;
+	border-radius: 5px;
+	display: block;
+	width: 79%;
+	height: 35px;
+	margin: 20px auto 10px auto;
+}
+
+.newAccount {
+	background-color: forestgreen;
+	color: white;
+	border-radius: 5px;
+	display: block;
+	width: 40%;
+	height: 35px;
+	margin: 20px auto 10px;
+}
+
+.line {
+	text-align: center;
+}
+
+.bottomLinks {
+	text-align: center;
+	padding-bottom: 10px;
+}
+.bottomLinks a {
+	text-decoration: none;
+	font-size: 12px;
+}
